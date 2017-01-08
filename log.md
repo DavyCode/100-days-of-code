@@ -13,3 +13,9 @@
 **Today's Progress**: Tinkering with react-bootstrap and creating simple view components for the site. Decided to add bootswatch paper theme. Make the UI job easier for myself. Material UI just had too many quirks and has breaking changes
 **Thoughts**: Looking for young collaborators on my project will be a step forward. With a lotta youngins engaged in 100DaysOfCode, a lotta people should be willng to join up on something exciting.
 
+## Day 5: January 7th 2017
+**Today's Progress**: Churning out more components for landing page. Didn't even have time to update log
+
+##Day 6: January 8th 2017
+**Today's Progress**: Added Auth Routes. Added quite a number of frontend packages to project and used them to create some awesome views. Made Twitter friends. Pushed Code to github!!!
+**Thoughts**: Need a package??? It's already on npm!
