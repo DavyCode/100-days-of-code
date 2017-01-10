@@ -19,3 +19,8 @@
 ##Day 6: January 8th 2017
 **Today's Progress**: Added Auth Routes. Added quite a number of frontend packages to project and used them to create some awesome views. Made Twitter friends. Pushed Code to github!!!
 **Thoughts**: Need a package??? It's already on npm!
+
+##Day 7: January 9th 2017
+**Today's Progress**: Getting down and dirty with Redux for React. Learnt some generic startup code and played around with the basics. Looks promising.
+**Thoughts**: Managing state in individual components has been quite a scary thought. I hope Redux finally takes away that fear.
+
